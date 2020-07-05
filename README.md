@@ -5,3 +5,5 @@ The script gives you details about the updates in an update group including the 
 The output is an html file that is by default in the same folder as the script.
 
 Finally, mind that this code is provided as-is with no warrenties. If you find any issues or if you have ideas for improvements feel free to contact me. Thanks!
+
+For some more details see https://sysmanrec.com/get-details-about-the-updates-in-a-configuration-manager-update-group
